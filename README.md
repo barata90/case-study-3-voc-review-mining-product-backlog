@@ -21,10 +21,9 @@ Airline reviews contain rich operational and product signals (seat comfort, cabi
 
 ---
 ## Dashboard demo (video)
+Click the thumbnail to download the MP4!
 
 [![Dashboard demo video](assets/dashboard_thumbnail.png)](https://raw.githubusercontent.com/barata90/case-study-3-voc-review-mining-product-backlog/main/assets/Screen_Recording_2026-01-18_21.41.06.mp4?download=1)
-
-Click the thumbnail to download the MP4.
 
 ---
 
