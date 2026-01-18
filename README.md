@@ -20,6 +20,13 @@ Airline reviews contain rich operational and product signals (seat comfort, cabi
 > Note: This repository is intended for portfolio/educational use. Data licensing and redistribution requirements should be validated for any production use.
 
 ---
+## Dashboard demo (video)
+
+[![Dashboard demo video](assets/dashboard_thumbnail.png)](https://raw.githubusercontent.com/barata90/case-study-3-voc-review-mining-product-backlog/main/assets/Screen_Recording_2026-01-18_21.41.06.mp4?download=1)
+
+Click the thumbnail to download the MP4.
+
+---
 
 ## Approach
 
