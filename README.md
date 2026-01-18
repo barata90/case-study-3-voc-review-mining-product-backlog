@@ -3,6 +3,11 @@
 An end-to-end analytics workflow that converts unstructured airline reviews into **monthly issue trends** and a **prioritized improvement backlog** with measurable KPIs and tracking plans.
 
 ---
+## Live Demo
+- **Streamlit App:** https://barata90-case-study-3-voc-review-mining-pr-streamlit-app-8d7xst.streamlit.app/ 
+- **Repository:** https://github.com/barata90/case-study-3-voc-review-mining-product-backlog
+
+---
 
 ## Problem
 
